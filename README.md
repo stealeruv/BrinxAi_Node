@@ -22,7 +22,7 @@ Subscribe : [Crypto Console Youtube](https://www.youtube.com/@cryptoconsole)
 
 Hardware requirements:
 
-| **Hardware** | **Minimum Requirement** | **Recommended ** |
+| **Hardware** | **Minimum Requirement** | **Recommended**  |
 |--------------|-------------------------|------------------|
 | **CPU**      | 8 Cores                 | 16 Cores         |
 | **RAM**      | 16 GB                   | 64 GB            |
