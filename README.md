@@ -12,7 +12,13 @@ Node Operators :
 
 # Join Crypto Console Community
 
-Join TG : [Crypto Console Telegram](https://t.me/cryptoconsol) | Follow X : [Crypto Console Twitter](https://www.x.com/cryptoconsol) | Subscribe : [Crypto Console Youtube](https://www.youtube.com/@cryptoconsole)
+Join TG : [Crypto Console Telegram](https://t.me/cryptoconsol) 
+
+Follow X : [Crypto Console Twitter](https://www.x.com/cryptoconsol) 
+
+Subscribe : [Crypto Console Youtube](https://www.youtube.com/@cryptoconsole)
+
+--
 
 VPS Options:
 
