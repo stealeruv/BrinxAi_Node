@@ -18,11 +18,14 @@ VPS Options:
 
 Credit Card/Paypal : 
 
-VPS 1 : <a href="https://www.jdoqocy.com/click-101278318-15692486" target="_top">Contabo: Cloud VPS 1 for 12 months </a><img src="https://www.tqlkg.com/image-101278318-15692486" width="1" height="1" border="0"/>
+VPS 1 : [Contabo: Cloud VPS 1](https://www.jdoqocy.com/click-101278318-15692486)
 
-VPS 2 : <a href="https://www.tkqlhce.com/click-101278318-13796472" target="_top">Contabo: Cloud VPS 2 </a><img src="https://www.awltovhc.com/image-101278318-13796472" width="1" height="1" border="0"/>
+VPS 2 : [Contabo: Cloud VPS 2](https://www.tkqlhce.com/click-101278318-13796472)
 
-VPS 3 : <script type="text/javascript" language="javascript" src="https://www.kqzyfj.com/placeholder-55516689?target=_top&mouseover=N"></script>
+VPS 3 : [Contabo: Cloud VPS 3](https://www.dpbolvw.net/click-101278318-13796474)
+
+VPS 4 : [Contabo: Cloud VPS 3](https://www.anrdoezrs.net/click-101278318-13796476)
+
 
 Crypto payment : [https://vpsdime.com](https://vpsdime.com/a/4418/linux-vps)
 
