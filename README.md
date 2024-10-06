@@ -20,7 +20,7 @@ Follow X : [Crypto Console Twitter](https://www.x.com/cryptoconsol)
 
 Subscribe : [Crypto Console Youtube](https://www.youtube.com/@cryptoconsole)
 
-Hardware requirements:
+## Hardware requirements:
 
 | **Hardware** | **Minimum Requirement** | **Recommended**  |
 |--------------|-------------------------|------------------|
