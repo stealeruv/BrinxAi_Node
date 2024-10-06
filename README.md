@@ -176,7 +176,7 @@ sudo docker run -d --name brinxai_relay --cap-add=NET_ADMIN -p 1194:1194/udp adm
 
 ### Register Your Relay Node
 
-- Visit workers.brinxai.com.
+- Visit : [workers.brinxai.com.](https://workers.brinxai.com/login.php)
 
 - Create an account using your email and password.
 
