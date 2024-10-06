@@ -43,9 +43,9 @@ sudo apt update && sudo apt upgrade
 sudo apt-get install ca-certificates curl
 ```
 
-### Install Docker
+## Install Docker
 
-Setup Docker Rep
+### Setup Docker Rep
 
 ```
 # Add Docker's official GPG key:
@@ -150,6 +150,7 @@ sudo ufw allow 1194/udp
 ```
 uname -m
 ```
+
 Run the Relay Image
 
 AMD64:
@@ -164,7 +165,7 @@ sudo docker run -d --name brinxai_relay --cap-add=NET_ADMIN -p 1194:1194/udp adm
 ```
 
 
-Register Your Relay Node
+### Register Your Relay Node
 
 - Visit workers.brinxai.com.
 
@@ -173,3 +174,6 @@ Register Your Relay Node
 - Log in to your account.
 
 - Give any node name and enter your vps IP address
+
+
+**Join the airdrop channel** : https://t.me/cryptoconsol
