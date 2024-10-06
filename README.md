@@ -17,8 +17,12 @@ Join TG : [Crypto Console Telegram](https://t.me/cryptoconsol) | Follow X : [Cry
 VPS Options:
 
 Credit Card/Paypal : 
-VPS 1 : <a href="https://www.jdoqocy.com/click-101278318-15692486" target="_top">Advertise for our Cloud VPS 1 for 12 months </a><img src="https://www.tqlkg.com/image-101278318-15692486" width="1" height="1" border="0"/>
-VPS 2 : <a href="https://www.tkqlhce.com/click-101278318-13796472" target="_top">Contabo: Powerful Cloud VPS 2 </a><img src="https://www.awltovhc.com/image-101278318-13796472" width="1" height="1" border="0"/>
+
+VPS 1 : <a href="https://www.jdoqocy.com/click-101278318-15692486" target="_top">Contabo: Cloud VPS 1 for 12 months </a><img src="https://www.tqlkg.com/image-101278318-15692486" width="1" height="1" border="0"/>
+
+VPS 2 : <a href="https://www.tkqlhce.com/click-101278318-13796472" target="_top">Contabo: Cloud VPS 2 </a><img src="https://www.awltovhc.com/image-101278318-13796472" width="1" height="1" border="0"/>
+
+VPS 3 : <script type="text/javascript" language="javascript" src="https://www.kqzyfj.com/placeholder-55516689?target=_top&mouseover=N"></script>
 
 Crypto payment : [https://vpsdime.com](https://vpsdime.com/a/4418/linux-vps)
 
