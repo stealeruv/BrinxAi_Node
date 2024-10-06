@@ -20,7 +20,7 @@ Follow X : [Crypto Console Twitter](https://www.x.com/cryptoconsol)
 
 Subscribe : [Crypto Console Youtube](https://www.youtube.com/@cryptoconsole)
 
-**VPS Options**
+# VPS Options
 
 Credit Card/Paypal : 
 
@@ -34,6 +34,8 @@ VPS 4 : [Contabo: Cloud VPS 3](https://www.anrdoezrs.net/click-101278318-1379647
 
 
 Crypto VPS : [https://vpsdime.com](https://vpsdime.com/a/4418/linux-vps)
+
+------------------
 
 ## 1.Update and Install Dependencies
 ```
