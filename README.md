@@ -33,7 +33,6 @@ VPS 3 : [Contabo: Cloud VPS 3](https://www.dpbolvw.net/click-101278318-13796474)
 VPS 4 : [Contabo: Cloud VPS 3](https://www.anrdoezrs.net/click-101278318-13796476)
 
 
-Crypto VPS : [https://vpsdime.com](https://vpsdime.com/a/4418/linux-vps)
 
 ------------------
 
