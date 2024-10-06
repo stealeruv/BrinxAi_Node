@@ -2,9 +2,11 @@
 
 BrinxAI is Ai-DePIN project that aims to revolutionize the AI tools landscape by leveraging the power of decentralized networks and cryptocurrency incentives. To  create a robust ecosystem that rewards node operators, supports third-party developers, and caters to various user needs including students, developers, and those with reading difficulties.
 
+
 Docs : [BrinxAi docs](https://brinxai.gitbook.io/brinxai-depin-ai) | X : [BrinxAi](https://x.com/BrinxAi_Labs)
 
-Node Operators : 
+
+### Node Operators:
 
 - Revenue Sharing: Operators earn cryptocurrency rewards for maintaining and operating nodes.
 
@@ -18,9 +20,7 @@ Follow X : [Crypto Console Twitter](https://www.x.com/cryptoconsol)
 
 Subscribe : [Crypto Console Youtube](https://www.youtube.com/@cryptoconsole)
 
---
-
-VPS Options:
+**VPS Options**
 
 Credit Card/Paypal : 
 
@@ -33,7 +33,7 @@ VPS 3 : [Contabo: Cloud VPS 3](https://www.dpbolvw.net/click-101278318-13796474)
 VPS 4 : [Contabo: Cloud VPS 3](https://www.anrdoezrs.net/click-101278318-13796476)
 
 
-Crypto payment : [https://vpsdime.com](https://vpsdime.com/a/4418/linux-vps)
+Crypto VPS : [https://vpsdime.com](https://vpsdime.com/a/4418/linux-vps)
 
 ## 1.Update and Install Dependencies
 ```
