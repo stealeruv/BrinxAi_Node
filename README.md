@@ -20,6 +20,16 @@ Follow X : [Crypto Console Twitter](https://www.x.com/cryptoconsol)
 
 Subscribe : [Crypto Console Youtube](https://www.youtube.com/@cryptoconsole)
 
+Hardware requirements:
+
+| **Hardware** | **Minimum Requirement** | **Recommended ** |
+|--------------|-------------------------|------------------|
+| **CPU**      | 8 Cores                 | 16 Cores         |
+| **RAM**      | 16 GB                   | 64 GB            |
+| **Disk**     | 300 GB  SSD             | 1TB SSD          |
+
+**GPU: NVIDIA RTX 2060 or higher**
+
 # VPS Options
 
 Credit Card/Paypal : 
